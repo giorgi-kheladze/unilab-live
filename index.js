@@ -26,3 +26,5 @@ http.onload = function() {
         document.getElementById("form").innerHTML = result;
     }
 };
+
+console.log("hello")
